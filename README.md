@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rashidarif-dev
-- 👀 I’m interested in Javascript, PHP, Laravel, React, React Native, and Flutter. Backend Technology.
+- 👀 I’m interested in Javascript, PHP, Laravel, React, React Native, and Flutter. [Backend Technology]
 - 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate on Github and Innovative Products.
 - 📫 How to reach me? Email Me at- rashidarif.dev@outlook.com
